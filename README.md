@@ -1,99 +1,67 @@
-<h1 align="center">&lt; Davison_Barros_Dev /&gt;</h1>
-
-<p align="center">
-  Desenvolvedor em formação • Back-end com Go • Desenvolvimento Web
-</p>
-
-<p align="center">
-  <a href="https://davisonbarros-dev.netlify.app/">
-    <img src="https://img.shields.io/badge/PORTFÓLIO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Portfólio">
-  </a>
-  <a href="mailto:Davisonbarros.dev@gmail.com">
-    <img src="https://img.shields.io/badge/CONTATO-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="E-mail">
-  </a>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Ol%C3%A1!+Eu+sou+Davison+Barros;Bem-vindo+ao+meu+perfil!;Go+%7C+HTML+%7C+CSS+%7C+JavaScript" alt="Apresentação animada de Davison Barros">
+</div>
 
 ---
 
-<img align="right" src="./perfil.jpeg" width="220" alt="Foto de Davison Barros">
+<img align="right" alt="Davison Barros" width="190" src="./perfil.jpeg">
 
-### 👨‍💻 sobre_mim.go
+### 👨‍💻 Sobre mim
 
-```go
-package davison
+Me chamo **Davison Barros** e moro no **Rio de Janeiro — RJ**.
 
-var Perfil = struct {
-    Nome       string
-    Local      string
-    Foco       string
-    Estudando  []string
-    Objetivo   string
-}{
-    Nome:      "Davison Barros",
-    Local:     "Rio de Janeiro, Brasil",
-    Foco:      "Desenvolvimento back-end",
-    Estudando: []string{"Go", "PostgreSQL",
-                       "HTML", "CSS", "JavaScript"},
-    Objetivo:  "Primeira oportunidade como dev",
-}
-```
+Estou em transição de carreira para o desenvolvimento de software e faço curso de **desenvolvimento back-end com Go**. Também estudo **HTML, CSS, JavaScript e PostgreSQL**, colocando meu aprendizado em prática com projetos.
+
+Sou apaixonado por tecnologia, computadores e hardware. Minha experiência como eletricista autônomo fortaleceu minha autonomia, responsabilidade e capacidade de resolver problemas.
+
+🎯 **Busco minha primeira oportunidade em desenvolvimento.**
 
 <br clear="both">
 
-### ⚡ Da elétrica para o código
+---
 
-Estou em transição de carreira para o desenvolvimento de software.
-Como eletricista autônomo desde 2019, desenvolvi responsabilidade,
-autonomia e habilidade para encontrar soluções para problemas práticos.
+### 📫 Conecte-se comigo
 
-Minha paixão por computadores e tecnologia me levou à programação.
-Hoje, estudo e construo projetos para transformar esse interesse
-em uma nova trajetória profissional.
+[![E-mail](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=22D3EE)](mailto:Davisonbarros.dev@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=googlechrome&logoColor=22D3EE)](https://davisonbarros-dev.netlify.app/)
 
 ### 🛠️ Tecnologias em estudo
 
 <p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img alt="Go" title="Go" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg">
+  &nbsp;
+  <img alt="HTML5" title="HTML5" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+  &nbsp;
+  <img alt="CSS3" title="CSS3" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+  &nbsp;
+  <img alt="JavaScript" title="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  &nbsp;
+  <img alt="PostgreSQL" title="PostgreSQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
 </p>
 
-### 🚀 Projetos em destaque
+### 🚀 Projetos
 
-| Projeto | Descrição | Tecnologias |
-| :--- | :--- | :--- |
-| [📦 StockFlow](https://github.com/davisonbarrosdev/stock_flow) | Sistema de gestão de estoque em desenvolvimento, com API, autenticação e banco de dados. | Go · PostgreSQL |
-| [🌐 Portfólio](https://davisonbarros-dev.netlify.app/) | Meu espaço para apresentar projetos e minha evolução no desenvolvimento web. | HTML · CSS · JavaScript |
+- **[StockFlow](https://github.com/davisonbarrosdev/stock_flow)** — Projeto de gestão de estoque em desenvolvimento com Go e PostgreSQL.
+- **[Portfólio pessoal](https://davisonbarros-dev.netlify.app/)** — Meus projetos, estudos e evolução no desenvolvimento web.
 
-### 📊 Atividade no GitHub
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davisonbarrosdev&show_icons=true&theme=github_dark&hide_border=true" alt="Estatísticas do GitHub de Davison">
-</p>
+### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davisonbarrosdev&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens dos repositórios de Davison">
-</p>
+<div align="center">
+  <img width="49%" alt="Estatísticas do GitHub de Davison" src="https://github-readme-stats.vercel.app/api?username=davisonbarrosdev&show_icons=true&locale=pt-br&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&icon_color=A78BFA">
+  <img width="49%" alt="Linguagens dos repositórios" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davisonbarrosdev&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9">
+</div>
+
+### 🐍 Minhas contribuições
+
+<div align="center">
+  <img width="100%" alt="Animação das contribuições de Davison" src="https://raw.githubusercontent.com/davisonbarrosdev/davisonbarrosdev/output/snake.svg">
+</div>
 
 ---
 
 <p align="center">
-  <strong>&lt; DB_Dev /&gt;</strong><br>
+  <strong>&lt; Davison_Barros_Dev /&gt;</strong><br>
   Aprendendo, construindo e evoluindo — um projeto de cada vez.
 </p>
-<!--
-**davisonbarrosdev/Davisonbarrosdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
